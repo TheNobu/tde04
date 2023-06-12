@@ -1,0 +1,12 @@
+.text{
+    background-color:#026466;
+    height: 100px;
+    width: 110%;
+    display: flex;
+}
+
+.textCor{
+    color: white;
+    font-size: 30px;
+    margin-left: 12px;
+}
